@@ -1,0 +1,25 @@
+{
+  "name": "ts-fundamentals",
+  "version": "1.0.0",
+  "description": "FrontendMasters workshop by Mike",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IryArkhy/ts-fundamentals.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "IrynaArkhypchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IryArkhy/ts-fundamentals/issues"
+  },
+  "homepage": "https://github.com/IryArkhy/ts-fundamentals#readme",
+  "dependencies": {
+    "typescript": "^3.9.6"
+  }
+}

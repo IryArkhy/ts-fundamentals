@@ -1,0 +1,21 @@
+{
+    //how we compile
+    "compilerOptions": {
+        //version of JS to compile to
+        "target": "ES2017",
+        //module system
+        "module": "commonjs",
+        //output directory
+        "outDir": "lib",
+        //creates files *.d.ts
+        "declaration": true,
+        //creates files *.js.map
+        "sourceMap": true
+    },
+    //list of files as inputs
+    // "files": [] //or
+    //specifies globs: what are we compiling? --> everything in src folder
+    "include": [
+        "src"
+    ],
+}
