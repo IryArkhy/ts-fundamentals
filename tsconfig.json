@@ -10,12 +10,22 @@
         //creates files *.d.ts
         "declaration": true,
         //creates files *.js.map
-        "sourceMap": true
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "strictPropertyInitialization": true,
+        "noEmit": true,
+        "strictNullChecks": true,
+        "strict": true,
+        "strictFunctionTypes": true,
+        "strictBindCallApply": true,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false
     },
     //list of files as inputs
     // "files": [] //or
     //specifies globs: what are we compiling? --> everything in src folder
     "include": [
-        "src"
+        "src",
+        "mike-notes"
     ],
 }
