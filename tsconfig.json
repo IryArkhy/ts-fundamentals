@@ -27,6 +27,6 @@
     "include": [
         "src",
         "mike-notes",
-        "challanges"
+        "challenges/*/src"
     ],
 }
