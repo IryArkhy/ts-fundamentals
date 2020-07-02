@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/IryArkhy/ts-fundamentals#readme",
   "dependencies": {
+    "json-types": "^1.0.2",
     "typescript": "^3.9.6"
   }
 }

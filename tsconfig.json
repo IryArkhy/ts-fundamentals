@@ -26,6 +26,7 @@
     //specifies globs: what are we compiling? --> everything in src folder
     "include": [
         "src",
-        "mike-notes"
+        "mike-notes",
+        "challanges"
     ],
 }
